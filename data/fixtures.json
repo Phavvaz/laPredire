@@ -1,0 +1,8486 @@
+[
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Real Valladolid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Real Oviedo",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Alaves",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Rayo Vallecano",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "3",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Levante",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Albacete",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Malaga",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Liverpool",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Real Zaragoza",
+        "Home_score": "4",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "3",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Liverpool",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Las Palmas",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Numancia",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Real Zaragoza",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Deportivo La Coruna",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Chelsea",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Murcia",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Real Mallorca",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Numancia",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Chelsea",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Gimnastic",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Real Mallorca",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "6",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Arsenal",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Real Zaragoza",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "AEK Athens",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Deportivo La Coruna",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "AEK Athens",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Standard Liege",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Malaga",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Recreativo Huelva",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Real Mallorca",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Alaves",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Panathinaikos XI FC",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Panathinaikos XI FC",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Las Palmas",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Real Mallorca",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Real Zaragoza",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Racing Santander",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "6"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Manchester United",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Deportivo La Coruna",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Manchester United",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Cadiz",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "AC Milan",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "AC Milan",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Racing Santander",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Benfica",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Racing Santander",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Malaga",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "7",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Malaga",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Rayo Vallecano",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Juventus",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Real Valladolid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Malaga",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Levante",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Albacete",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Shakhtar Donetsk",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Levante",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "5",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Real Mallorca",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Recreativo Huelva",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Schalke",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Schalke",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Benfica",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Malaga",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Real Valladolid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Celtic",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Murcia",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Real Valladolid",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Real Oviedo",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Alaves",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Rayo Vallecano",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "4",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Deportivo La Coruna",
+        "Home_score": "2",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Juventus",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Deportivo La Coruna",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Real Mallorca",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Tenerife",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "6"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Osasuna",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Malaga",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Celtic",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Deportivo La Coruna",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "AC Milan",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Real Zaragoza",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Deportivo La Coruna",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Recreativo Huelva",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "3",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Real Valladolid",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Chelsea",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Deportivo La Coruna",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Real Zaragoza",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Chelsea",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Celtic",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Real Mallorca",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Brondby",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Deportivo La Coruna",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Brondby",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Club Brugge",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Osasuna",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Racing Santander",
+        "Home_score": "6",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Alaves",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Rayo Vallecano",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Real Zaragoza",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "AC Milan",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Numancia",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Shakhtar Donetsk",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Liverpool",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Real Zaragoza",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Almeria",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Celtic",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Levante",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Real Zaragoza",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Real Mallorca",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Real Zaragoza",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Alaves",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Zamora",
+        "Home_score": "6",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Albacete",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Club Brugge",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Real Zaragoza",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Besiktas",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Las Palmas",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Real Valladolid",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Alaves",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Las Palmas",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Real Mallorca",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Real Zaragoza",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Celtic",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Liverpool",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Racing Santander",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Real Zaragoza",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Celtic",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Real Zaragoza",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Osasuna",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Zamora",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Cadiz",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Real Zaragoza",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Real Zaragoza",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Numancia",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Real Mallorca",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Leeds United",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "6"
+    },
+    {
+        "Season": "2000-2001",
+        "Home": "Barcelona",
+        "Away": "Leeds United",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "2",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Real Valladolid",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Fenerbahce",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2004-2005",
+        "Home": "Racing Santander",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Gimnastic",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Racing Santander",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Murcia",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Real Mallorca",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Alcoyano",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Udinese",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Racing Santander",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Werder Bremen",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Levante",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Real Zaragoza",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Levante",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Racing Santander",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Malaga",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Recreativo Huelva",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Real Mallorca",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Rayo Vallecano",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Lyon",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Willem II",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Malaga",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Alaves",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Alaves",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Stuttgart",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Deportivo La Coruna",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Panathinaikos",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Malaga",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Granada 74",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Malaga",
+        "Away": "Barcelona",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Real Valladolid",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Panionios FC",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Deportivo La Coruna",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Galatasaray",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Racing Santander",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Bayer Leverkusen",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Lyon",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Deportivo La Coruna",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Internacional",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Club America",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Werder Bremen",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Levante",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Lyon",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Recreativo Huelva",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Alcoyano",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Rangers",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Osasuna",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Panathinaikos",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Deportivo La Coruna",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Real Zaragoza",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Panionios FC",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Murcia",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Real Mallorca",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Alaves",
+        "Home_score": "6",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Lokomotiv Moscow",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Real Valladolid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Osasuna",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Real Mallorca",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Bayer Leverkusen",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Tenerife",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Fenerbahce",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Barcelona",
+        "Away": "Rayo Vallecano",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Levski Sofia",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Real Valladolid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Almeria",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Rangers",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Udinese",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Werder Bremen",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Barcelona",
+        "Away": "Real Mallorca",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2005-2006",
+        "Home": "Alaves",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Deportivo La Coruna",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "SKM Puchov",
+        "Home_score": "8",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Gramenet",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Lokomotiv Moscow",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Galatasaray",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Blackburn Rovers",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Derby County",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2001-2002",
+        "Home": "Wisla Krakow",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Real Mallorca",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Real Zaragoza",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Badalona",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Deportivo La Coruna",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Chelsea",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Stuttgart",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Levante",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "SKM Puchov",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Osasuna",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Albacete",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2003-2004",
+        "Home": "Leicester City",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Legia Daewoo Warsaw",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Barcelona",
+        "Away": "Legia Daewoo Warsaw",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2002-2003",
+        "Home": "Newcastle United",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Recreativo Huelva",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Chelsea",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Real Zaragoza",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Lyon",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Racing Santander",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Werder Bremen",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Racing Santander",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Levski Sofia",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Barcelona",
+        "Away": "Osasuna",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2006-2007",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Hearts",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2007-2008",
+        "Home": "Dundee United",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Deportivo La Coruna",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Manchester United",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Osasuna",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Real Mallorca",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "3",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Chelsea",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "6"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Chelsea",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Bayern Munich",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Recreativo Huelva",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Bayern Munich",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Real Valladolid",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Malaga",
+        "Home_score": "6",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Almeria",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Lyon",
+        "Home_score": "5",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Real Mallorca",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Lyon",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Sporting Gijon",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Real Mallorca",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Racing Santander",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Numancia",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Deportivo La Coruna",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Real Mallorca",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Shakhtar Donetsk",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Sporting Lisbon",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Recreativo Huelva",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Benidorm",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Real Valladolid",
+        "Home_score": "6",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Basel",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Malaga",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Benidorm",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Almeria",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Basel",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "6",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Shakhtar Donetsk",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Sporting Gijon",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "6"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Sporting Lisbon",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Racing Santander",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Numancia",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Wisla Krakow",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Boca Juniors",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Barcelona",
+        "Away": "Wisla Krakow",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "New York Red Bulls",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "6"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Guadalajara",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Fiorentina",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Dundee United",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2008-2009",
+        "Home": "Hibernian",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "6"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Real Valladolid",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Tenerife",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Inter Milan",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Xerez",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Inter Milan",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Deportivo La Coruna",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Arsenal",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Arsenal",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Real Mallorca",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Osasuna",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Real Zaragoza",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Stuttgart",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Almeria",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Malaga",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Stuttgart",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Racing Santander",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Sporting Gijon",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Real Valladolid",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Tenerife",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Estudiantes",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Atlante",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Dynamo Kiev",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Deportivo La Coruna",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Xerez",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Inter Milan",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Cultural Leonesa",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Real Mallorca",
+        "Home_score": "4",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Rubin Kazan",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Cultural Leonesa",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Real Zaragoza",
+        "Home_score": "6",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Rubin Kazan",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Almeria",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Dynamo Kiev",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Malaga",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Racing Santander",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Inter Milan",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Sporting Gijon",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Shakhtar Donetsk",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Manchester City",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Barcelona",
+        "Away": "Al Ahly XI",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2009-2010",
+        "Home": "Tottenham Hotspur",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Elche",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Granada",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Osasuna",
+        "Home_score": "7",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Manchester City",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Real Valladolid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Almeria",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Manchester City",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Rayo Vallecano",
+        "Home_score": "6",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Levante",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Malaga",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Levante",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Levante",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Elche",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Juventus",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Cartagena",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Celtic",
+        "Home_score": "6",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Deportivo La Coruna",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Bayern Munich",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Cartagena",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Ajax",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Granada",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Manchester United",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Bayern Munich",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Cordoba",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "8"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "6",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Paris Saint-Germain",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Paris Saint-Germain",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Malaga",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "AC Milan",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "AC Milan",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Malaga",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Deportivo La Coruna",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Levante",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Almeria",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Manchester City",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Eibar",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Rayo Vallecano",
+        "Home_score": "6",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Real Valladolid",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "4",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Bayern Munich",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Real Valladolid",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Celtic",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Almeria",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Granada",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Manchester City",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Malaga",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Levante",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Granada",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Sporting Gijon",
+        "Home_score": "6",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Bayern Munich",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Levante",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Real Zaragoza",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Rayo Vallecano",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Ajax",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Malaga",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Barcelona",
+        "Away": "Levante",
+        "Home_score": "7",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Osasuna",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Shakhtar Donetsk",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Almeria",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Shakhtar Donetsk",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Elche",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "6"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Deportivo La Coruna",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Elche",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Elche",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Deportivo La Coruna",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "8"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Paris Saint-Germain",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Real Mallorca",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Paris Saint-Germain",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2013-2014",
+        "Home": "Bayern Munich",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Arsenal",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Real Zaragoza",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Cordoba",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "SD Huesca",
+        "Home_score": "8",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Paris Saint-Germain",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "SD Huesca",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Arsenal",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Rayo Vallecano",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "AC Milan",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Deportivo La Coruna",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Real Mallorca",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Arsenal",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Sporting Gijon",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Almeria",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Apoel Nicosia",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Almeria",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "6",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Eibar",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Rayo Vallecano",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "AC Milan",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Granada",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "6",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Hercules",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Almeria",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Racing Santander",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Malaga",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Ajax",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Ajax",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Arsenal",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Las Palmas",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Sporting Gijon",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "6",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Osasuna",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Malaga",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Malaga",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Malaga",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Deportivo La Coruna",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Levante",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Eibar",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Rayo Vallecano",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Paris Saint-Germain",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Levante",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "7",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Malaga",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "6",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Cordoba",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Real Valladolid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Cordoba",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Benfica",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Rubin Kazan",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Panathinaikos",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Malaga",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Rayo Vallecano",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "7"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Chelsea",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Chelsea",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Levante",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Granada",
+        "Home_score": "6",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Malaga",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Levante",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Apoel Nicosia",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Granada",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Deportivo La Coruna",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Bayer Leverkusen",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Alaves",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Levante",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Spartak Moscow",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Real Zaragoza",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Almeria",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "8"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Ceuta",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "FC Copenhagen",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Real Zaragoza",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "AC Milan",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "AC Milan",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Real Mallorca",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2014-2015",
+        "Home": "Barcelona",
+        "Away": "Elche",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Villanovense",
+        "Home_score": "6",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Roma",
+        "Home_score": "6",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Real Mallorca",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Celtic",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Alaves",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Rayo Vallecano",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Ceuta",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Real Zaragoza",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "FC Copenhagen",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Real Mallorca",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Rubin Kazan",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Granada",
+        "Home_score": "5",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Racing Santander",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "BATE Borisov",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Villanovense",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Eibar",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Celtic",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Deportivo La Coruna",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Benfica",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Granada",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Sporting Gijon",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Panathinaikos",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "Hercules",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Bayer Leverkusen",
+        "Home_score": "7",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Sporting Gijon",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "BATE Borisov",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Rayo Vallecano",
+        "Home_score": "5",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Bayer Leverkusen",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Spartak Moscow",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Racing Santander",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2010-2011",
+        "Home": "Barcelona",
+        "Away": "AC Milan",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Bayer Leverkusen",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Las Palmas",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Levante",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Roma",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Malaga",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "FC Dinamo Bucuresti",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Barcelona",
+        "Away": "Manchester United",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2012-2013",
+        "Home": "Paris Saint-Germain",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "5",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Roma",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Fiorentina",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Malaga",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "4",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Osasuna",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Chelsea",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Manchester United",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2015-2016",
+        "Home": "Barcelona",
+        "Away": "Los Angeles Galaxy",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Hospitalet",
+        "Home_score": "9",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Santos",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Al Sadd",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "BATE Borisov",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Levante",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Rayo Vallecano",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "AC Milan",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Real Zaragoza",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Hospitalet",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "FC Viktoria Plzen",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Real Mallorca",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Granada",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "FC Viktoria Plzen",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Racing Santander",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Sporting Gijon",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "BATE Borisov",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Osasuna",
+        "Home_score": "8",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "AC Milan",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "FC Porto",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Manchester United",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Bayern Munich",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2011-2012",
+        "Home": "Barcelona",
+        "Away": "Internacional",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Mamelodi Sundowns",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Levante",
+        "Away": "Barcelona",
+        "Home_score": "5",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Deportivo La Coruna",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Roma",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Leganes",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Roma",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Chelsea",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Malaga",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Las Palmas",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Girona",
+        "Home_score": "6",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Chelsea",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Eibar",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Alaves",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Levante",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Deportivo La Coruna",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Sporting Lisbon",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Murcia",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Juventus",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Leganes",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Olympiakos FC",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Murcia",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Malaga",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Olympiakos FC",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Las Palmas",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Sporting Lisbon",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Girona",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Eibar",
+        "Home_score": "6",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Juventus",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Alaves",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Eibar",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Gimnastic",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Barcelona",
+        "Away": "Manchester United",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2017-2018",
+        "Home": "Juventus",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Levante",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Granada",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "5",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Real Valladolid",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "6"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Alaves",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "SD Huesca",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Paris Saint-Germain",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Eibar",
+        "Home_score": "4",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Las Palmas",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Osasuna",
+        "Home_score": "7",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Elche",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Cadiz",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Paris Saint-Germain",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Bayern Munich",
+        "Home_score": "2",
+        "Away_score": "8"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Juventus",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "3",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Juventus",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Malaga",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Granada",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "4",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Deportivo La Coruna",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Paris Saint-Germain",
+        "Home_score": "6",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Alaves",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Granada",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Rayo Vallecano",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Elche",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "UD Cornella",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Napoli",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Alaves",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Osasuna",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Real Valladolid",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Sporting Gijon",
+        "Home_score": "6",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Leganes",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Granada",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "SD Huesca",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Eibar",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Eibar",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Liverpool",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Leganes",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Real Mallorca",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Napoli",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Paris Saint-Germain",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Alaves",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "6"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Real Valladolid",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Levante",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Juventus",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Liverpool",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Levante",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Alaves",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Manchester United",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Eibar",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Getafe",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Levante",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Real Sociedad",
+        "Home_score": "5",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Eibar",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Las Palmas",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Cadiz",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "SD Huesca",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Manchester United",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Leganes",
+        "Home_score": "5",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Ibiza",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Granada",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Villarreal",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "H\u00e9rcules",
+        "Home_score": "7",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Ferencvaros",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Osasuna",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Dynamo Kiev",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "5",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Dynamo Kiev",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Real Betis",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Lyon",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Rayo Vallecano",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Alaves",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Espanyol",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Alaves",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Juventus",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "1",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Ferencvaros",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Real Madrid",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Lyon",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Real Valladolid",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Inter Milan",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Real Mallorca",
+        "Home_score": "5",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Borussia Dortmund",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Leganes",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "M'gladbach",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "H\u00e9rcules",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "6",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Girona",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Cartagena",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Slavia Prague",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Levante",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Real Valladolid",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Celtic",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Malaga",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Girona",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Leganes",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Levante",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Eibar",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Slavia Prague",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Eibar",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Inter Milan",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Manchester City",
+        "Away": "Barcelona",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Granada",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Manchester City",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2020-2021",
+        "Home": "Barcelona",
+        "Away": "Gimnastic",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Levante",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Celta Vigo",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Levante",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Getafe",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Granada",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Borussia Dortmund",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Deportivo La Coruna",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Celta Vigo",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "M'gladbach",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Sporting Gijon",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Atletico Madrid",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Tottenham Hotspur",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Espanyol",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Cultural Leonesa",
+        "Home_score": "4",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Villarreal",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "PSV Eindhoven",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Valencia",
+        "Home_score": "5",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Osasuna",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "5",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Leganes",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "5"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Celtic",
+        "Home_score": "7",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Atletico Madrid",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "3",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Inter Milan",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Napoli",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Napoli",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Vissel Kobe",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2019-2020",
+        "Home": "Barcelona",
+        "Away": "Chelsea",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Alaves",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Athletic Bilbao",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Real Betis",
+        "Home_score": "6",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Rayo Vallecano",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "3"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Cultural Leonesa",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Real Madrid",
+        "Home_score": "5",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Inter Milan",
+        "Home_score": "2",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Liverpool",
+        "Away": "Barcelona",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Leicester City",
+        "Home_score": "4",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2016-2017",
+        "Home": "Barcelona",
+        "Away": "Celtic",
+        "Home_score": "3",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Sevilla",
+        "Home_score": "4",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Valencia",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Tottenham Hotspur",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Athletic Bilbao",
+        "Home_score": "1",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Leganes",
+        "Away": "Barcelona",
+        "Home_score": "2",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Girona",
+        "Home_score": "2",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "PSV Eindhoven",
+        "Home_score": "4",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Real Sociedad",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "SD Huesca",
+        "Home_score": "8",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Real Valladolid",
+        "Away": "Barcelona",
+        "Home_score": "0",
+        "Away_score": "1"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Alaves",
+        "Home_score": "3",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Sevilla",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "2"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "AC Milan",
+        "Away": "Barcelona",
+        "Home_score": "1",
+        "Away_score": "0"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Roma",
+        "Home_score": "2",
+        "Away_score": "4"
+    },
+    {
+        "Season": "2018-2019",
+        "Home": "Barcelona",
+        "Away": "Tottenham Hotspur",
+        "Home_score": "2",
+        "Away_score": "2"
+    }
+]
